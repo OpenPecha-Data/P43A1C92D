@@ -1,0 +1,28 @@
+id: 22d1a42de14e40539560b7c5a8050d68
+annotation_type: index
+revision: '00001'
+annotations:
+  c46613d7889f471b8eb51085e74e5c6b:
+    work_id: W11784068
+    span:
+      vol: Piṇḍoddāna
+      start: 0
+      end: 513
+  f00b513248c0411db391378d12e9b765:
+    work_id: W56D1EEDE
+    span:
+      vol: Uddāna 1
+      start: 0
+      end: 216
+  da7b3ef29e97446c9049d2084d4b3c03:
+    work_id: W4EBB1BD4
+    span:
+      vol: Uddāna 2
+      start: 0
+      end: 608
+  d6fb2f812a1a4000a2faf467cd176635:
+    work_id: W35B2420E
+    span:
+      vol: Uddāna 3
+      start: 0
+      end: 31

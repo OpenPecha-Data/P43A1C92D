@@ -1,0 +1,25 @@
+id: P43A1C92D
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,04: Varṣāvastu'
+  language: en
+  volumes:
+    bbd88a9ff3a54e619d4c165e944ea510:
+      title: Piṇḍoddāna
+      base_file: Piṇḍoddāna.txt
+      work_id: W11784068
+    94ffbfb0eccf411bb435359cdbb2e0f4:
+      title: Uddāna 1
+      base_file: Uddāna 1.txt
+      work_id: W56D1EEDE
+    beb23942c18941b0856f8b49f27c7c81:
+      title: Uddāna 2
+      base_file: Uddāna 2.txt
+      work_id: W4EBB1BD4
+    7bb78f0fc0d146b4b00b72e72de97b54:
+      title: Uddāna 3
+      base_file: Uddāna 3.txt
+      work_id: W35B2420E
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:15:20.243500'
+last_modified_at: '2022-03-01T22:15:20.243506'
